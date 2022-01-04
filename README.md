@@ -5,7 +5,7 @@
 Clone the repository <br/>
 `$` `git clone https://github.com/GuyGooL5/communication-ltd.git`
 
-Install Modules
+Install Modules <br/>
 `$` `npm install` <br/>
 `$` `cd client`<br/>
 `$` `npm install`<br/>
