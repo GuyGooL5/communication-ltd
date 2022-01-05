@@ -21,3 +21,4 @@ To start the backend dev server run <br/>
 To start the frontend dev server run <br/>
 `$` `cd client` <br/>
 `$` `npm install` <br/>
+`$` `npm run dev` <br/>
